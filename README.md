@@ -1,3 +1,5 @@
+ï»¿![Incident Response Agent](assets/github-banner.png)
+
 # Incident Response Agent
 
 ## Overview
@@ -81,22 +83,22 @@ The application follows a modular architecture:
 The repository is organized into two main application modules:
 
 **Backend**
-- `app/__init__.py` – Backend application package.
-- `create_hindsight_bank.py` – Hindsight memory bank setup script.
-- `test_grok.py` – xAI API connectivity test script.
-- `.env.example` – Environment configuration template.
-- `app/main.py` – FastAPI application entry point.
-- `app/core/` – Database connection, Hindsight client, AI client, and incident analyzer.
-- `app/incidents/` – Incident management API routes.
-- `app/memory/` – Hindsight memory operations.
-- `requirements.txt` – Python dependencies.
+- `app/__init__.py` â€“ Backend application package.
+- `create_hindsight_bank.py` â€“ Hindsight memory bank setup script.
+- `test_grok.py` â€“ xAI API connectivity test script.
+- `.env.example` â€“ Environment configuration template.
+- `app/main.py` â€“ FastAPI application entry point.
+- `app/core/` â€“ Database connection, Hindsight client, AI client, and incident analyzer.
+- `app/incidents/` â€“ Incident management API routes.
+- `app/memory/` â€“ Hindsight memory operations.
+- `requirements.txt` â€“ Python dependencies.
 
 **Frontend**
-- `src/App.jsx` – Main React dashboard.
-- `src/App.css` – Dashboard styling.
-- `src/index.css` – Global styles.
-- `src/main.jsx` – React application entry point.
-- `package.json` – Frontend dependencies and scripts.
+- `src/App.jsx` â€“ Main React dashboard.
+- `src/App.css` â€“ Dashboard styling.
+- `src/index.css` â€“ Global styles.
+- `src/main.jsx` â€“ React application entry point.
+- `package.json` â€“ Frontend dependencies and scripts.
 
 
 ## Installation and Setup
@@ -219,6 +221,7 @@ The current version demonstrates the integration of incident management with per
 - [Hindsight GitHub Repository](https://github.com/vectorize-io/hindsight)
 - [Hindsight Documentation](https://hindsight.vectorize.io/)
 - [What Is Agent Memory?](https://vectorize.io/what-is-agent-memory)
+
 
 
 
