@@ -231,3 +231,9 @@ The current version demonstrates the integration of incident management with per
 
 
 
+
+## Application Dashboard
+
+The Incident Response Agent dashboard provides an overview of active incidents, severity levels, resolution metrics, and investigation insights.
+
+![Incident Response Agent Dashboard](assets/screenshots/dashboard.png)
